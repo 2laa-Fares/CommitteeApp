@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">لِجَنَّةِ إِصْلَاحٍ ذَاتُ الْبَيْن</string>
+    <string name="login_key">Login key</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="email">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="search">بحث برقم المعاملة</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="user_id">User ID</string>
+    <string name="filter">فلترة البحث</string>
+    <string name="category">Category</string>
+    <string name="user_name">User Name</string>
+    <string name="title_activity_case_tabs_detials">CaseTabsDetialsActivity</string>
+    <string name="service_not_available_ar">الخدمة غير متوفرة</string>
+    <string name="service_not_available_en">Service not available...</string>
+</resources>
